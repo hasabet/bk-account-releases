@@ -1,5 +1,0 @@
-{
-  "provider": "KeyAuth",
-  "app_version": "1.0.0",
-  "update_manifest_url": "https://github.com/hasabet/bk-account-releases/releases/latest/download/update.json"
-}
