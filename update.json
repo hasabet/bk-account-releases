@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/hasabet/bk-account-releases/releases/latest/download/BK_Account_Setup.exe",
+  "sha256": "2ce3eb37e128bfff8e21d9b8affbd15adaadad9095d8f153ec04ff351fca6664",
+  "release_notes": "Initial BK Account release.",
+  "new_features": [
+    "Automatic update checks with secure installer verification"
+  ],
+  "fixes": [],
+  "required": false
+}
